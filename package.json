@@ -1,0 +1,21 @@
+{
+  "name": "bienes_raices_mvc",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "sequelize"
+  ],
+  "author": "Juan Pablo Cely Millán",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
