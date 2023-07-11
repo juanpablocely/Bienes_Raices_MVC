@@ -7,7 +7,7 @@ res.render('auth/login',{
 
 const formulariorRegistro = ( req, res) => {
     res.render('auth/registro',{
-        autenticado: false
+       pagina: 'Crear Cuenta'
     })
     }
 
